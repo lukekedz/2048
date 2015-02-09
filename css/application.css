@@ -1,0 +1,50 @@
+/* color theme Sea Wolf */
+/* https://color.adobe.com/Sea-Wolf-color-theme-782171/ */
+
+.container {
+  margin: 20px auto;
+  width: 800px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+  text-align: center;
+}
+
+.one {
+  border: 3px solid #374140;
+  background-color: #D9CB9E;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin: 2px;
+  font-size: 48px;
+}
+
+.two {
+  border: 3px solid #374140;
+  background-color: #D9CB9E;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin: 2px;
+  font-size: 48px;
+}
+
+.three {
+  border: 3px solid #374140;
+  background-color: #D9CB9E;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin: 2px;
+  font-size: 48px;
+}
+
+.four {
+  border: 3px solid #374140;
+  background-color: #D9CB9E;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  margin: 2px;
+  font-size: 48px;
+}
